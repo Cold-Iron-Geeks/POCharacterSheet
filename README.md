@@ -1,22 +1,22 @@
 # POCharacterSheet
-CIG's repository for Character sheets.
+CIG's repository for Character sheets.<br>
 We have a LOT to go through here, obviously this is just a lot of information to try and commit to a team of about 2, thinking it's just Bryant and Myself.
-If we get more, fuckin' great. Love it, we're really happy you're here, more help is always good.
+If we get more, fuckin' great. Love it, we're really happy you're here, more help is always good.<br>
 
 Below I'll be writing out what we'll be needing to code into the game, this should help with how we structure the code and work on things. I will be trying
 to put these in the order of operations as to what we will need before the next step is implemented, so that we work progressively, expounding upon the previous
 code we create. Anything under the Numerical can be taken in separate parts, as they will eventually add on to one another. (i.e figuring out how something like
 Drop down menus work, then using that knowledge to help set up for when Hunter inevitably goes in the exact order due to his autisim brain, we contribute all
-together to make a masterpiece here.
+together to make a masterpiece here.<br><br>
 (Keeping in mind that the Android Studio we download is able to Execute both Java, Javascript, and C/C++. Java is able to look for other java files and
 execute them so we can sub-section code into specific Java files for security if we have to. This can allow us to make files only visible to Java, and not
-end users.)
+end users.)<br><br>
 
-1. **Engine work. We need a base engine that:**
-  a. Can accept information and be readily changed at any point when the user wants
-  b. Allow multiple parts of the code that is dedicated to simple things like, Name, Player name, etc. (The rest may be done in HTML with Java Integration)
-  c. Button that allows the additon of more visuals on the screen (i.e. Feats, Spell Additions, etc. Also, leveling up and initial character creation)
-  d. Boxes to check (True/False statements with user interaction)
+1. **Engine work. We need a base engine that:**<br>
+  a. Can accept information and be readily changed at any point when the user wants<br>
+  b. Allow multiple parts of the code that is dedicated to simple things like, Name, Player name, etc. (The rest may be done in HTML with Java Integration)<br>
+  c. Button that allows the additon of more visuals on the screen (i.e. Feats, Spell Additions, etc. Also, leveling up and initial character creation)<br>
+  d. Boxes to check (True/False statements with user interaction)<br>
   e. Drop down menus with multiple options to choose from (Gods, Lords, Feats, Spells(Upon pressing Add spell button, Spells have special interactions at
       level 1)  
    f. Drop down menus that display Primary Race, Secondary Race, Dieties, Lords, Temperament, Traits, Detriments, Size, Class, Armor Type, Armor Tier, Armor
